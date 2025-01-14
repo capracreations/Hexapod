@@ -6,7 +6,7 @@ Six-legged articulated robotic walker which can be controlled with a gamepad thr
 The code and files within this repository are currently a **_WORK IN PROGRESS_** and as such I cannot ensure that all the code provided will be in a usable/stable form as I can only work on it during my free time. The design of the Hexapod has not been finalized and is subject to change and modification at any time. Please refer back to this repo from time to time for code and model updates if available. All external resources used (except for product pages) have been referenced within the **_resources_** below, please refer to them for additional info. **_Ryan Mirch's_** hexapod code is used to assist logic and structure within parts of my code; See resources for repo.
 
 ## Requirements
-This project can be a bit lengthy and may test your skills -as it has mine- in design, electronics and code logic, and such it is necessary to be prepared for the task, below is a list of required softwares and equipment that will be required to create your own hexapod.
+This project can be a bit lengthy and may test your skills -as it has mine- in design, electronics and code logic, and such it is necessary to be prepared for the task, below is a list of softwares and equipment that will be required to create your own hexapod.
 ### Softwares
 - CAD Software (Solidworks, Fusion360, Onpoint)
 - 3D-printing Slicer (Cura, Prusaslicer)
