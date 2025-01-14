@@ -41,4 +41,5 @@ For ease of use and to limit confusion please note that the main code is always 
 
 ## Resources
 -[Ryan's Repo](https://github.com/Ryan-Mirch/Aecerts_Hexapod_V1/tree/main/Hexapod_Code)
+
 -[Arduino Ant Hexapod](https://howtomechatronics.com/projects/arduino-ant-hexapod-robot/#h-assembling-the-pcb)
