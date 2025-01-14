@@ -8,7 +8,7 @@ The code and files within this repository are currently a **_WORK IN PROGRESS_**
 ## Requirements
 This project can be a bit lengthy and may test your skills -as it has mine- in design, electronics and code logic, and such it is necessary to be prepared for the task, below is a list of softwares and equipment that will be required to create your own hexapod.
 ### Softwares
-- CAD Software (Solidworks, Fusion360, Onpoint)
+- CAD Software (Solidworks, Fusion360, Onshape)
 - 3D-printing Slicer (Cura, Prusaslicer)
 - Arduino IDE 2.0 or higher
 ### Hexapod
