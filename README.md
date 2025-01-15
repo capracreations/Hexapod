@@ -1,6 +1,6 @@
 # Hexapod
 ## Overview
-![](/images/hexapod.png)
+![](/images/hexapod.png)  
 Six-legged articulated robotic walker which can be controlled with a gamepad through 2.4GHz transceivers. The Hexapod uses 18 MG996R 9-13kg/cm at 5.0V.
 
 ## Please Read
