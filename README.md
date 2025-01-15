@@ -20,7 +20,7 @@ This project can be a bit lengthy and may test your skills -as it has mine- in d
 - NRF24L01 2.4GHz tranceiver module
 - Hexapod Arduino PCB Shield (See **_Arduino Ant Hexapod_** in resources for PCB files)
 - 12V to 5V Buck DC converter
-- 12.4V (3 Cell) Lipo battery
+- 11.1V (3 Cell) Lipo battery
 - M.# bolt and nut set
 ### RF Controller
 - Arduino Nano
