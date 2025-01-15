@@ -41,5 +41,5 @@ Written and worked inverse kinematics solutions for one leg are provided for cla
 For ease of use and to limit confusion please note that the main code is always assigned the **_.ino_** file type. All **_.h_** and **_.cpp_** type files are **_declarations and definitions_** for objects or functions used within the main **_.ino_** code. To be able to use the code in a "plug and play" style, download the entire root file as a .zip and extract to where desired. From there open the main **_.ino_** file within "Arduino Code/Hexapod" as is and it will ask if you want to create and store the **_.ino_** file in a folder of its own name. Select "yes" and transfer the **_.h_** and **_.cpp_** files into the created directory and they should be applied to the main file automatically.
 
 ## Resources
--[Ryan's Repo](https://github.com/Ryan-Mirch/Aecerts_Hexapod_V1/tree/main/Hexapod_Code)  
+-[Ryan Mirch's Hexapod Repo](https://github.com/Ryan-Mirch/Aecerts_Hexapod_V1/tree/main/Hexapod_Code)  
 -[Arduino Ant Hexapod](https://howtomechatronics.com/projects/arduino-ant-hexapod-robot/#h-assembling-the-pcb)  
