@@ -40,7 +40,7 @@ Written and worked inverse kinematics solutions for one leg are provided for cla
 ## Hexapod PCB
 For the hexapod to function, a custom Arduino Mega shield is required which can support and drive 18 servo motors at once. How to Mechatronics has already done the hard work for us this time by providing a PCB which can drive up to 24 servos at once, and the files can be downloaded from section 6.1 on their website; see **_Arduino Ant Hexapod_** in the resources below. I also recommend that you read through the page to learn more than I can say about assembling the overall circuit. The PCB can be ordered online from PCBWay or JLCPCB (not sponcered by either), if you're worried about messing up while soldering do not worry as they will send you 5 copies.
 
-![How To Mechatronics's servo shield](/images/hexapod_pcb.png) 
+![How To Mechatronics's servo shield](/images/hexapod_pcb.png)
 ### Resistors
 - R1 = 2KΩ
 - R2 = 1KΩ
