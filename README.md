@@ -35,7 +35,7 @@ This project can be a bit lengthy and may test your skills -as it has mine- in d
 Written and worked inverse kinematics solutions for one leg are provided for clarity and understanding. The solution has already been implemented within the code.
 
 ## .STL 3D Model Files
-![](/images/hexapod.png) 
+![](/images/hexRC.png) 
 .stl CAD files for the Hexapod and RF Controller are provided for download, parts are designed and toleranced to be **_3D-printed_**. The Hexapod is composed of two main body parts, and six legs with three segments each. Each leg has three rotational joints to allow for a sufficient range of motion.
 
 ## Hexapod PCB
