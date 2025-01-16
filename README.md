@@ -38,7 +38,8 @@ Written and worked inverse kinematics solutions for one leg are provided for cla
 .stl CAD files for the Hexapod and RF Controller are provided for download, parts are designed and toleranced to be **_3D-printed_**. The Hexapod is composed of two main body parts, and six legs with three segments each. Each leg has three rotational joints to allow for a sufficient range of motion.
 
 ## Hexapod PCB
-For the hexapod to function, a custom Arduino Mega shield is required which can support and drive 18 servo motors at once. How to Mechatronics has already done the hard work for us this time by providing a PCB which can drive up to 24 servos at once, and the files can be downloaded from section 6.1 on their website; see **_Arduino Ant Hexapod_** in the resources below. I also recommend that you read through the page to learn more than I can say about assembling the overall circuit. The PCB can be ordered online from PCBWay or JLCPCB (not sponcered by either), if you're worried about messing up while soldering do not worry as they will send you 5 copies.  
+For the hexapod to function, a custom Arduino Mega shield is required which can support and drive 18 servo motors at once. How to Mechatronics has already done the hard work for us this time by providing a PCB which can drive up to 24 servos at once, and the files can be downloaded from section 6.1 on their website; see **_Arduino Ant Hexapod_** in the resources below. I also recommend that you read through the page to learn more than I can say about assembling the overall circuit. The PCB can be ordered online from PCBWay or JLCPCB (not sponcered by either), if you're worried about messing up while soldering do not worry as they will send you 5 copies.
+
 ![How To Mechatronics's servo shield](/images/hexapod_pcb.png) 
 ### Resistors
 - R1 = 2KΩ
