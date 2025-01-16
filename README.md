@@ -48,7 +48,7 @@ The values for all resistors and capacitors are:
 - R5 = 1KΩ
 - R6 = 2KΩ
 ### Capacitors
-- C1 = C2 = 16V/470μF
+- C1 = C2 = 10V/470μF
 - C3 = 10V/47μF
 
 ## Arduino Code Files
